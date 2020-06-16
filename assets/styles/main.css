@@ -1,0 +1,32 @@
+.rps-img {
+    width: 70px;
+    background-color: #e62649;
+    border-radius: 10px;
+    padding: 5px;
+}
+.score {
+    color: #e62649;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#WN {display: none; background-color: red; color: white; width: 380px; margin: auto; font-size: 50px; border-radius: 50px; text-align: center;
+}
+#DR {display: none; background-color: green; color: white; width: 380px; margin: auto; font-size: 50px; border-radius: 50px; text-align: center;
+}
+#LS {display: none; background-color: blue; color: white; width: 380px; margin: auto; font-size: 50px; border-radius: 50px; text-align: center;
+}
+
+.border {border-radius: 1000px;}
+
+.description {
+    width: 200px; margin-top: 50px;
+}
+
+.howToPlay{
+    text-align: center; background-color: red; color: white; font-size: xx-large;
+}
+
+.howTo {
+    text-align: center; background-color: red; color: white; font-size: large;
+}
